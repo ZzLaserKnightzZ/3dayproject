@@ -1,0 +1,13 @@
+{
+  "HOST_URL": "https://localhost:7083",
+  "LOGIN": "https://localhost:7083/User/Login",
+  "AUTH": {
+    "REFRESH_TOKEN": "https://localhost:7083/User/RefreshToken",
+    "CHANGE_TOKEN": "https://localhost:7083/User/ChangeToken"
+  },
+  "CAR": {
+    "ADD_CAR": "https://localhost:7083/Car/AddCar",
+    "GET_All_CAR": "https://localhost:7083/Car/GetAllCar",
+    "USER_ON_SELL": "https://localhost:7083/Car/UserOnSell"
+  }
+}
