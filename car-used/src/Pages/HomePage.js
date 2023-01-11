@@ -75,12 +75,12 @@ const HomePage = () => {
                 อื่นๆ :{x?.detail}
               </Series>
               <ContactContainer>
-                <ContactTellBtn href="tel:0897239501">
+                <ContactTellBtn href="tel:08xxxxx">
                   <FaPhone />
                   &nbsp; &nbsp; โทร
                 </ContactTellBtn>
                 <ContactLineBtn
-                  href="https://line.me/ti/p/Nmo1DJQk4x"
+                  href="https://line.me/ti/p/N"
                   target="_blank"
                 >
                   <FaLine />
